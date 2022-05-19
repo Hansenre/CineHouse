@@ -1,0 +1,27 @@
+[
+    {
+        "codigo": 11,
+        "titulo": "Breaking Bad",
+        "duracao": 2.5,
+        "atores": ["Marlon Brando", "Elisabeth Taylor", "Bruce Willis"],
+        "anoDeLancamento": 2022,
+        "emCartaz": true
+    },
+    
+    {
+        "codigo": 22,
+        "titulo": "Iron Man",
+        "duracao": 1.3,
+        "atores": ["Ricky Gervais ", "Demi Moore"],
+        "anoDeLancamento": 2001,
+        "emCartaz": false
+    },
+    {
+        "codigo": 33,
+        "titulo": "Top Gun",
+        "duracao": 2.3,
+        "atores": ["Ricky Gervais ", "Demi Moore"],
+        "anoDeLancamento": 2001,
+        "emCartaz": false
+    }
+]
